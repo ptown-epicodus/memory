@@ -1,3 +1,21 @@
 .card {
   border: 1px red solid;
+  height: 300px;
+  width: 300px;
+}
+
+.flipped {
+  background-color: red;
+}
+
+.flipped img {
+  display: block;
+}
+
+.matched img {
+  display: block;
+}
+
+img {
+  display: none;
 }
